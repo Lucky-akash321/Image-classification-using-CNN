@@ -1,5 +1,7 @@
 # Image Classification Using CNN: A Step-by-Step Guide
 
+![](https://github.com/Lucky-akash321/Image-classification-using-CNN/blob/main/CNN.png)
+
 ## Introduction
 **Image Classification** is a fundamental task in Computer Vision, where a model assigns a label to an image based on its visual content. **Convolutional Neural Networks (CNNs)** are widely used for image classification due to their ability to automatically extract features from images.
 
